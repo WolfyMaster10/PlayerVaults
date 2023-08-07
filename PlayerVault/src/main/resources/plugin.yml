@@ -1,0 +1,11 @@
+name: PlayerVault
+version: '${project.version}'
+main: wolfy.playervault.PlayerVault
+api-version: '1.17'
+authors: [Wolfy_Master]
+
+commands:
+  playervault:
+    description: Opens the player's vault.
+    usage: /playervault <number>
+    aliases: [pv]

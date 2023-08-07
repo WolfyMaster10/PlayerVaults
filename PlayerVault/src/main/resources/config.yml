@@ -1,0 +1,7 @@
+# config.yml
+# You can add more configuration options as needed.
+# For example, you might want to specify default items in the player vaults.
+
+prefix: "§f[§cPlayerVaultsf] §d"
+max_vaults: 5
+min_vaults: 1
